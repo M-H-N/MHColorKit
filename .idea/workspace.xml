@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f171e900-b9fc-4bbe-af44-85ac8bb792e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FirstTry.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/SwiftyColorKit.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Example/SwiftyColorKit.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/SwiftyColorKit.xcodeproj/xcshareddata/xcschemes/SwiftyColorKit-Example.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/Example/SwiftyColorKit.xcodeproj/xcshareddata/xcschemes/SwiftyColorKit-Example.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/SwiftyColorKit/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/Example/SwiftyColorKit/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Example/SwiftyColorKit/ViewController.swift" beforeDir="false" afterPath="$PROJECT_DIR$/Example/SwiftyColorKit/ViewController.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftyColorKit.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/SwiftyColorKit.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwiftyColorKit/Classes/ReplaceMe.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="AppCode" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2RsRacRfAn1NtSsoBFjAbakXPjp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/mhn/Developer/SwiftyColorKit",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f171e900-b9fc-4bbe-af44-85ac8bb792e7" name="Changes" comment="" />
+      <created>1688036866844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688036866844</updated>
+      <workItem from="1688036868669" duration="27000" />
+    </task>
+    <servers />
+  </component>
+</project>

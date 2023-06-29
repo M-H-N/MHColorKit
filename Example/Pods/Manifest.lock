@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyColorKit (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyColorKit (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyColorKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyColorKit: 4e332489b3e34e299fe48d821e492a04a8bf2cdf
+
+PODFILE CHECKSUM: 626f7cb2bd4d21520892019b98d2cf6a76251ad1
+
+COCOAPODS: 1.11.3
